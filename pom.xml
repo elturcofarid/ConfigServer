@@ -8,10 +8,10 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>co.icfes</groupId>
-	<artifactId>Servicio-Configuracion</artifactId>
+	<groupId>com.co.solati</groupId>
+	<artifactId>Config-Server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Servicio-Configuracion</name>
+	<name>Config-Server</name>
 	<description>Servicio para configuracion de otro servicios</description>
 
 	<properties>
